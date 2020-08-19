@@ -13,6 +13,13 @@ questions:
     label: 镜像地址
     group: "全局 设置"
     required: true
+  - variable: global.image.tag
+    default: ""
+    #description: "镜像地址"
+    type: string
+    label: 版本号
+    group: "全局 设置"
+    required: true
   #lbl-front配置
   - variable: lbl-front.enabled
     default: true
