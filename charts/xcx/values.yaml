@@ -1,6 +1,6 @@
-# @Author: nickchen
+# @Author: token
 # @Date:   2020-08-07T08:20:24+08:00
-# @Last modified by:   nickchen
+# @Last modified by:   token
 # @Last modified time: 2020-08-07T14:36:16+08:00
 
 ingress:
@@ -11,4 +11,4 @@ ingress:
 
 xcxPort: 3000
 message:
-  name: nickchen
+  name: token

@@ -1,9 +1,9 @@
-# @Author: nickchen
+# @Author: token
 # @Date:   2020-08-07T09:41:20+08:00
-# @Last modified by:   nickchen
+# @Last modified by:   token
 # @Last modified time: 2020-08-07T14:35:04+08:00
 categories:
-  - train-nickchen
+  - train-token
 
 questions:
   - variable: global.image.registry
@@ -58,7 +58,7 @@ questions:
     show_subquestion_if: true
     subquestions:
     - variable: xcx.message.name
-      default: "nickchen"
+      default: "token"
       description: "你的名字"
       type: string
       required: true

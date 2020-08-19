@@ -10,6 +10,6 @@ dependencies:
   repository: file://./charts/xcx
   version: 0.1.0
 description: A Helm chart for train
-name: train-nickchen
+name: train-token
 type: application
 version: 0.1.1
